@@ -16,15 +16,6 @@ class CarrinhoWidgetState extends State<CarrinhoWidget> {
         _buildItem(name: "Hamburguesa de Pollo", count: 1, value: 59),
         _buildItem(name: "Tacos al Pastor", count: 3, value: 42),
         _buildItem(name: "Bebida Grande", count: 1, value: 25),
-        _buildItem(name: "Hamburguesa de Pollo", count: 1, value: 59),
-        _buildItem(name: "Tacos al Pastor", count: 3, value: 42),
-        _buildItem(name: "Bebida Grande", count: 1, value: 25),
-        _buildItem(name: "Hamburguesa de Pollo", count: 1, value: 59),
-        _buildItem(name: "Tacos al Pastor", count: 3, value: 42),
-        _buildItem(name: "Bebida Grande", count: 1, value: 25),
-        _buildItem(name: "Hamburguesa de Pollo", count: 1, value: 59),
-        _buildItem(name: "Tacos al Pastor", count: 3, value: 42),
-        _buildItem(name: "Bebida Grande", count: 1, value: 25),
       ],
     );
   }

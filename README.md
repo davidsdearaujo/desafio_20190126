@@ -1,8 +1,12 @@
 # desafio_20190126
 
-A new Flutter project.
+Desafio proposto no grupo Flutterando (apenas layout)
 
 ## Getting Started
+
+![](screenshots/01.png)
+
+![](screenshots/02.png)
 
 This project is a starting point for a Flutter application.
 
